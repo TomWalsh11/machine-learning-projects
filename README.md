@@ -6,4 +6,4 @@ Types of algorithms used include but are not limited to inear and logistic regre
 
 # Structure
 
-Each folder contains data used for the project and a .py script.
+Each folder contains dataset(s) used for the project and .py scripts containing the project code.
