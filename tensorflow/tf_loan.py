@@ -6,7 +6,7 @@ import seaborn as sns
 
 # Read in the data
 df = pd.read_csv(
-    '/Users/thomaswalsh/Documents/Python/Data Science and Machine Learning/Data Science and Machine Learning Bootcamp/TensorFlow_FILES/DATA/lending_club_loan_two.csv')
+    '/Users/....lending_club_loan_two.csv')
 df.info()
 
 # Exploratory data analysis
