@@ -1,1 +1,8 @@
-In this project I use linear regression to analyse E-Commerce data in order to highlight whether a clothing company should focus their efforts on their mobile app or website experience.
+# 📈 Linear Regression for E-Commerce Analysis
+
+In this project, I use **Linear Regression** to analyze E-Commerce data and provide insights into a clothing company's online presence. The objective is to determine whether the company should prioritize improving the **mobile app** or the **website experience** based on user engagement and sales data.
+
+### ⚙️ Techniques Used:
+- **Linear Regression**: A statistical method to model the relationship between a dependent variable and one or more independent variables, helping to make predictions based on historical data.
+
+This analysis guides business decisions regarding resource allocation for improving customer experience across platforms.
