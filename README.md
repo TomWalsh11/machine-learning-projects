@@ -30,7 +30,7 @@ Each folder in this repository contains:
 The code primarily uses Python, with the following key libraries:
 - **pandas** - Data manipulation
 - **NumPy** - Numerical operations
-- **seaborn** - Data visualization
+- **seaborn** - Data visualisation
 - **scikit-learn** - Machine learning algorithms
 - **tensorflow** - Neural networks
 
