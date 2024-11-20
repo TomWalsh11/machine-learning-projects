@@ -4,7 +4,7 @@ In this project, I build a machine learning model to predict whether a quote is 
 
 ### 🔍 Data Exploration
 - **Data Analysis**: The dataset is initially explored to understand the data structure, identify missing values, and examine statistics like means, medians, and standard deviations.
-- **Visualizations**: Created using Seaborn and Matplotlib to analyze:
+- **Visualisations**: Created using Seaborn and Matplotlib to analyse:
   - Correlations between features like `Buyout`, `Consignment`, `Retail Price`, and `Store Credit`.
   - Distributions of `Retail Price` and `Quote Status`.
   - Relationships between features using scatterplots and boxplots.
@@ -21,9 +21,9 @@ In this project, I build a machine learning model to predict whether a quote is 
 - **Training**: The model is trained on 70% of the data with early stopping to avoid overfitting, monitored on the validation loss.
 
 ### 📝 Results
-- **Performance Evaluation**: Model performance is evaluated using classification metrics such as accuracy, precision, recall, and confusion matrix. The model achieves good results with an optimized architecture.
+- **Performance Evaluation**: Model performance is evaluated using classification metrics such as accuracy, precision, recall, and confusion matrix. The model achieves good results with an optimised architecture.
 
 ### ⚙️ Techniques and Tools
 - **Libraries**: Pandas, Numpy, Seaborn, Matplotlib, TensorFlow, Scikit-learn
-- **Algorithms Used**: Neural Networks, Dropout Regularization, Early Stopping
+- **Algorithms Used**: Neural Networks, Dropout Regularisation, Early Stopping
 - 
